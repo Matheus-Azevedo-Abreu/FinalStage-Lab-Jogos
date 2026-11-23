@@ -160,15 +160,6 @@ No Windows: `py -3.12 -m venv .venv`, `.venv\Scripts\pip install -r requirements
 
 | Pessoa | Papel |
 |---|---|
-| Matheus Azevedo Abreu | dono do repositório |
-| Gabriel Ribeiro Ota Yida | coautor; único a escrever código a partir de 2026-09-27 |
-| Enzo Lemos Von Paumgartten Klautau | coautor; arte, resolução de bugs e documentos |
-
-## Links
-
-- **Repositório:** https://github.com/Matheus-Azevedo-Abreu/FinalStage
-- **itch.io:** PENDENTE.
-- **Teaser no YouTube:** PENDENTE.
-- **Galeria do PPlay:** PENDENTE (envio em https://www2.ic.uff.br/pplay/submeter-jogo/).
-- **Notion:** PENDENTE.
-- **Projeto no claude.ai:** PENDENTE.
+| Matheus Azevedo Abreu | coautor; arte; desenvolvimento das mecânicas entre personagem e ambiente |
+| Gabriel Ribeiro Ota Yida | coautor; desenvolvimento da movimentação do personagem; menus |
+| Enzo Lemos Von Paumgartten Klautau | coautor; arte; level design; resolução de bugs e documentos |
