@@ -47,7 +47,7 @@ Acesse https://itch.io/game/new e preencha:
 >
 > **Controles:** setas ou A/D para andar · espaço para pular · E para acionar · R reinicia o andar · Esc pausa · M som
 >
-> **Como jogar:** baixe e extraia o zip. No Windows, dois cliques em `jogar.bat`; no macOS, em `jogar.command`. Precisa do Python 3.12 (python.org); na primeira vez o lançador instala o pygame. Ou no terminal: `pip install pygame==2.6.1` e `python main.py`.
+> **Como jogar:** baixe e extraia o zip. Dois cliques em `Jogar no Windows`, `Jogar no Mac` ou `Jogar no Linux`, conforme o seu sistema (no Linux, se não abrir: botão direito e "Executar como programa"). Precisa do Python 3.12 (python.org); na primeira vez o lançador instala o pygame. Ou no terminal: `pip install pygame==2.6.1` e `python main.py`.
 >
 > Projeto final de Laboratório de Introdução à Programação (UFF, 2026), Prof. Esteban Clua.  
 > Por Matheus Azevedo Abreu, Gabriel Ribeiro Ota Yida e Enzo Lemos Von Paumgartten Klautau.  

@@ -137,7 +137,7 @@ Python 3.12 e pygame 2.6.1; a PPlay vai junto, na pasta `PPlay/`.
     .venv/bin/pip install -r requirements.txt
     .venv/bin/python main.py
 
-No Windows: `py -3.12 -m venv .venv`, `.venv\Scripts\pip install -r requirements.txt`, `.venv\Scripts\python main.py`. Ou dois cliques em `jogar.bat` (Windows) ou `jogar.command` (macOS), que fazem isso na primeira vez.
+No Windows: `py -3.12 -m venv .venv`, `.venv\Scripts\pip install -r requirements.txt`, `.venv\Scripts\python main.py`. Ou dois cliques em `Jogar no Windows.bat`, `Jogar no Mac.command` ou `Jogar no Linux.sh`, que fazem isso na primeira vez. No Linux, se o gerenciador de arquivos não abrir com dois cliques: botão direito e "Executar como programa", ou no terminal, `bash "Jogar no Linux.sh"`.
 
 ### Controles
 
@@ -160,15 +160,6 @@ No Windows: `py -3.12 -m venv .venv`, `.venv\Scripts\pip install -r requirements
 
 | Pessoa | Papel |
 |---|---|
-| Matheus Azevedo Abreu | dono do repositório |
-| Gabriel Ribeiro Ota Yida | coautor; único a escrever código a partir de 2026-09-27 |
-| Enzo Lemos Von Paumgartten Klautau | coautor; arte, resolução de bugs e documentos |
-
-## Links
-
-- **Repositório:** https://github.com/Matheus-Azevedo-Abreu/FinalStage
-- **itch.io:** PENDENTE.
-- **Teaser no YouTube:** PENDENTE.
-- **Galeria do PPlay:** PENDENTE (envio em https://www2.ic.uff.br/pplay/submeter-jogo/).
-- **Notion:** PENDENTE.
-- **Projeto no claude.ai:** PENDENTE.
+| Matheus Azevedo Abreu | coautor; arte; desenvolvimento das mecânicas entre personagem e ambiente |
+| Gabriel Ribeiro Ota Yida | coautor; desenvolvimento da movimentação do personagem; menus |
+| Enzo Lemos Von Paumgartten Klautau | coautor; arte; level design; resolução de bugs e documentos |
